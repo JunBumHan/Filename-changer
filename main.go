@@ -87,3 +87,10 @@ func main() {
 func removeStringBeforeIndex(str string, index int) string {
 	return str[index:]
 }
+
+/*
+이게 런타임 에러가 났는데, 실제 파일 보니깐 내 의도 대로 동작이 잘 됨..
+이거 이상함 왜 이러지
+일단 됐으니깐 ㄴㅇㅅ~
+
+*/
